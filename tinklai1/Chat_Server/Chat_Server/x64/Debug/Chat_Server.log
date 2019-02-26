@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\darbas\source\repos\chat_server\chat_server\main.cpp(53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\darbas\source\repos\chat_server\chat_server\main.cpp(70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\darbas\source\repos\chat_server\chat_server\main.cpp(165): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\darbas\source\repos\chat_server\chat_server\main.cpp(173): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Chat_Server.vcxproj -> C:\Users\Darbas\source\repos\Chat_Server\x64\Debug\Chat_Server.exe
